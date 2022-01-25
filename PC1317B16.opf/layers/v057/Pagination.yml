@@ -1,52 +1,45 @@
-id: 63be9416c28844088a43f476e7c78dd5
+id: 041a97996ad5489fb068a15ed2cd7cc9
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  be16fcda1c1242ee9f2b3d8302acfeb6:
+  31a2eb1de9f743d0939401d31fd3c738:
     imgnum: 868
     reference: ''
     span:
       start: 0
-      end: 730
-    note_ref: 69f5621cc3fd4a6abc35c9e229d03738
-  14aa893f94af4a4ba8cb9766dff47eb2:
+      end: 732
+    note_ref: 96781b7947e54ef4b69bc0ee0f5a7553
+  616efa2a1c754c8ab04d0d309e935bf6:
     imgnum: 869
     reference: ''
     span:
-      start: 733
-      end: 2070
-    note_ref: 69f5621cc3fd4a6abc35c9e229d03738
-  4730a4a6caad430b84638abd6ca44e12:
+      start: 735
+      end: 2074
+    note_ref: 96781b7947e54ef4b69bc0ee0f5a7553
+  31dbbe8cc8464ea899a00253f53962bd:
     imgnum: 870
     reference: ''
     span:
-      start: 2073
-      end: 3433
-    note_ref: 69f5621cc3fd4a6abc35c9e229d03738
-  b36823c3846a40a5a6e682f3da4e00d5:
+      start: 2077
+      end: 3439
+    note_ref: 96781b7947e54ef4b69bc0ee0f5a7553
+  9e21631e4d5a408f9b74b32e946dd7d6:
     imgnum: 871
     reference: ''
     span:
-      start: 3436
-      end: 4781
-    note_ref: 69f5621cc3fd4a6abc35c9e229d03738
-  69f5621cc3fd4a6abc35c9e229d03738:
+      start: 3442
+      end: 4789
+    note_ref: 96781b7947e54ef4b69bc0ee0f5a7553
+  96781b7947e54ef4b69bc0ee0f5a7553:
     imgnum: 872
     reference: ''
     span:
-      start: 4784
-      end: 5871
-    note_ref: 69f5621cc3fd4a6abc35c9e229d03738
-  387f051f9fe6402491d02134d8c57337:
-    imgnum: 873
-    reference: ''
-    span:
-      start: 5874
-      end: 6215
+      start: 4792
+      end: 6441
+    note_ref: 96781b7947e54ef4b69bc0ee0f5a7553
 local_ids:
-  be16fcda1c1242ee9f2b3d8302acfeb6: 200000
-  14aa893f94af4a4ba8cb9766dff47eb2: 200001
-  4730a4a6caad430b84638abd6ca44e12: 200002
-  b36823c3846a40a5a6e682f3da4e00d5: 200003
-  69f5621cc3fd4a6abc35c9e229d03738: 200004
-  387f051f9fe6402491d02134d8c57337: 200005
+  31a2eb1de9f743d0939401d31fd3c738: 200000
+  616efa2a1c754c8ab04d0d309e935bf6: 200001
+  31dbbe8cc8464ea899a00253f53962bd: 200002
+  9e21631e4d5a408f9b74b32e946dd7d6: 200003
+  96781b7947e54ef4b69bc0ee0f5a7553: 200004
